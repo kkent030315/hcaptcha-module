@@ -11,6 +11,9 @@
     "type": "git",
     "url": "git+https://github.com/kkent030315/hcaptcha-module.git"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "keywords": [
     "captcha",
     "hcaptcha",

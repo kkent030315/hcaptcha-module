@@ -32,7 +32,7 @@ export default {
 }
 ```
 
-3. Specify your site key in in `nuxt.config.js`
+3. Specify your site key in `nuxt.config.js`
 
 ```js
 export default {

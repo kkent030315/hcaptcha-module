@@ -22,9 +22,15 @@
     "defs/*.d.ts"
   ],
   "author": "Kento Oki",
+  "contributors": [
+    {
+      "name": "Kento Oki <hrn832@protonmail.com>"
+    }
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/kkent030315/hcaptcha-module/issues"
   },
-  "homepage": "https://github.com/kkent030315/hcaptcha-module#readme"
+  "homepage": "https://github.com/kkent030315/hcaptcha-module#readme",
+  "dependencies": {}
 }

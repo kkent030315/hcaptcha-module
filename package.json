@@ -5,7 +5,7 @@
   "main": "lib/module.js",
   "types": "defs/index.d.ts",
   "scripts": {
-    "test": "npm link && cd test/hcaptcha-test-app/ && npm link hcaptcha-nuxt && npm run build"
+    "test": "cd test/hcaptcha-test-app/ && npm install && npm install hcaptcha-nuxt && npm run build"
   },
   "repository": {
     "type": "git",

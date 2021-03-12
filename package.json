@@ -1,0 +1,25 @@
+{
+  "name": "@nuxtjs/hcaptcha-module",
+  "version": "1.0.0",
+  "description": "hCaptcha integration with Nuxt.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kkent030315/hcaptcha-module.git"
+  },
+  "keywords": [
+    "captcha",
+    "hcaptcha",
+    "nuxt",
+    "nuxtjs"
+  ],
+  "author": "Kento Oki",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kkent030315/hcaptcha-module/issues"
+  },
+  "homepage": "https://github.com/kkent030315/hcaptcha-module#readme"
+}

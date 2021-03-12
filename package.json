@@ -2,7 +2,8 @@
   "name": "@nuxtjs/hcaptcha-module",
   "version": "1.0.0",
   "description": "hCaptcha integration with Nuxt.js",
-  "main": "index.js",
+  "main": "lib/module.js",
+  "types": "defs/index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,6 +16,10 @@
     "hcaptcha",
     "nuxt",
     "nuxtjs"
+  ],
+  "files": [
+    "lib",
+    "defs/*.d.ts"
   ],
   "author": "Kento Oki",
   "license": "MIT",
